@@ -1,0 +1,4 @@
+name: IceBoxHub
+version: 1.0
+main: net.iceboxhub.main.IceBoxHub
+author: Z3Z
